@@ -1,0 +1,11 @@
+﻿Build started 7/17/2015 8:59:32 PM.
+     1>Project "C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Project2CsvFile.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Debug\Project2CsvFile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Debug\Project2CsvFile.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Debug\Project2CsvFile.lib" /MACHINE:X86 Debug\project2CsvFile.obj
+     1>project2CsvFile.obj : error LNK2019: unresolved external symbol "bool __cdecl readDataLine(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?readDataLine@@YA_NAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+     1>C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Debug\Project2CsvFile.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Soukaina\Desktop\cit-237  Morgan\Project2CsvFile\Project2CsvFile.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.06
