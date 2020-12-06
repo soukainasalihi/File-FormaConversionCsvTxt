@@ -1,11 +1,10 @@
 
 /*
-* Student: Soukaina Salihi
-* Course: CIT-237
-*
-*  This project involves writing c++ program
-* which  will be used to convert a "pipe-delimiter"
-*  text file to a file in csv format and also from csv to txt format
+*  Student: Soukaina Salihi
+*  Course: CIT-237
+*  This project involves writing a C++ program
+*  that allows the user to convert a "pipe-delimited"
+*  text file to a file in csv format and vice versa
 */
 
 #include<iostream>
